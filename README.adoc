@@ -1,0 +1,12 @@
+= Wine Works by darkchoco
+Ikhoon Chon <darkchoco@cloudscape.kr>
+:toc:
+
+``darkchoco-wine-works`` 아래 각 모듈을 구성.
+
+== To-do
+// todo: IntelliJ TODO 확인
+
+== Tips & Tricks
+
+== 참고
